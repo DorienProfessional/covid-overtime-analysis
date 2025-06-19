@@ -13,9 +13,6 @@ covid-overtime-analysis/
 └── visuals/
     ├── new_cases_plot.png
     └── deaths_trend.png
-    
-📄 2. .gitignore
-Prevents uploading unnecessary files.
 
 bash
 Copy
